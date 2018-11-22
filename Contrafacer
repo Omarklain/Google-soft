@@ -1,0 +1,13 @@
+object CSSFontFaceRule]{prototype: CSSFontFaceRulePrototype {...}}
+[functions]
+__proto__[object Object] {...}
+
+   La Consola JavaScript está conectada y acepta comandos.
+   CSSFontFaceRule
+   {
+      [functions]: ,
+      __proto__: { },
+      prototype: { }
+   }
+
+   
